@@ -1,5 +1,4 @@
-# Project Title
-Explore-US-Bikeshare-Data
+# Explore-US-Bikeshare-Data Project
 
 ### Date Created
 This project created at 18/03/2020.
