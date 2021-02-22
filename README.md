@@ -1,7 +1,7 @@
 # Explore-US-Bikeshare-Data Project
 
 ### Date Created
-This project created at 18/03/2020.
+This project has been created at 18/03/2020.
 
 ### Description
 For sample data files from bikeshare company, Python script is used to bring some descriptive statistics by Pandas DataFrames filters.
